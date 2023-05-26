@@ -1,6 +1,10 @@
+Người thực hiện:
+Họ tên: Nguyễn Vĩnh Tú
+Mã SV: B19DCCN601
+
 
 ## 🌟 About
-App To-do list đơn giản hỗ trợ người dùng trong trong công việc hằng ngày. Được xây dựng bằng Kotlin, app hỗ trợ thêm, sửa, xóa các tác vụ của người dùng giúp họ theo dõi hoạt động hàng ngày của bản thân. 
+App To-do list đơn giản hỗ trợ người dùng trong trong công việc hằng ngày. Được xây dựng bằng Kotlin, app hỗ trợ thêm, sửa, xóa, , hiển thị lịch sử các tác vụ của người dùng giúp họ theo dõi hoạt động hàng ngày của bản thân. 
 ## ✨ Screenshots
 
 <div style="display:flex;">
